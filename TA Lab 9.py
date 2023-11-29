@@ -1,4 +1,5 @@
 #This is code to plot the number of stabbing crimes in london from the time period 2015-2022.
+#I am using a line graph as I want to see the effect of year on the number of stabbings.
 #In 2020, there was a sharp drop in stabbing crimes in london due to the covid restrictions.
 #Data gotten from: https://www.statista.com/statistics/864736/knife-crime-in-london/
 
